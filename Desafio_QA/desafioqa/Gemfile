@@ -1,0 +1,14 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+gem "capybara"
+gem "cucumber"
+gem "ffi"
+gem "selenium-webdriver"
+gem "rufo"
+gem "rspec"
+gem "rubocop"
+gem "fastri"
+gem "chromedriver-helper"
+gem "rcodetools"
